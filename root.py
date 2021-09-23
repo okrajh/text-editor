@@ -5,7 +5,7 @@ import os
 main_application = tk.Tk()
 main_application.geometry('1200x800')
 main_application.title('Vpad Text Editor')
-
+#this is changed
 #>>>>>>>>>>>>>>>>>  (1)MAIN MENU   <<<<<<<<<<<<<<
 main_menu = tk.Menu()
 
